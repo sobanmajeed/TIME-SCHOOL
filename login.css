@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
-background-image: url('/Boostrap-Site/media/pic-1.jpg');
+background-image: url('pic-1.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
